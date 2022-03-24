@@ -1,0 +1,11 @@
+{
+  "name": "slider-on",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "sync": "browser-sync start --server --files *.*"
+  },
+  "author": "",
+  "license": "ISC"
+}
